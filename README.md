@@ -17,3 +17,5 @@
 * [Siguelíneas](Ejemplos/Siguelineas/Siguelineas.ino)
 
 * [Sígueme](Ejemplos/Sigueme/Sigueme.ino)
+
+![licencia](./images/Licencia_CC.png)
