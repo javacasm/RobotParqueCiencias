@@ -13,9 +13,9 @@
 
 
 // Comando para los servos
-#define ATRAS         0
+#define ATRAS         180
 #define PARA          90
-#define ADELANTE      180
+#define ADELANTE      0
 
 Servo servoIzda,servoDrcha;
 
